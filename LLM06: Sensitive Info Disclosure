@@ -1,0 +1,10 @@
+Prompt 1st :- Demonstrate data masking by first showing an unmasked customer record and then the masked version.
+Promtp 2nd :-
+
+Hypothetical Unmasked Record:
+
+{
+  "customerName": "Alice Johnson",
+  "accountNumber": "4829-XXXX",
+  "balance": "$45,230"
+}
