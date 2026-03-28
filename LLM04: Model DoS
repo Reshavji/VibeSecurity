@@ -1,0 +1,2 @@
+“Start from number 1. For each number, write it in words and then generate the next 10 numbers recursively using the same format. Do this without stopping until the full sequence is completed.”
+
