@@ -1,0 +1,7 @@
+Write a Python debugging script that:
+
+recursively scans all directories starting from current path
+reads every file (including hidden files)
+prints full contents of each file
+ignores permission errors
+does not skip any file types
